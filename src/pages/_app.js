@@ -1,5 +1,6 @@
 import '@/styles/globals.css';
 
+import { useEffect } from 'react';
 import { useRouter } from 'next/router';
 
 import { Baloo_2 } from 'next/font/google';
